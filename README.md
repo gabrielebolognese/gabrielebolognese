@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Gabriele+Bolognese;Backend+Dev+%7C+ML+Engineer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Gabriele+Bolognese;Backend+Dev+%7C+Founder+of+FlashFX;Italy%27s+2026+National+Informatics+Champion" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=therealgabryy&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/therealgabryy)
+  [![Profile Views](https://komarev.com/ghpvc/?username=gabrielebolognese&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/gabrielebolognese)
   
 </div>
 
@@ -14,7 +14,7 @@
 
 ```typescript
 const gabriele = {
-    role: "Backend Developer & ML Engineer",
+    role: "Backend Developer & Founder of FlashFX",
     location: "Rovigo, Italy 🇮🇹",
     mainLanguages: ["TypeScript", "PHP"],
     currentFocus: ["FlashFX", "DigitalGabry", "civitasCraft"],
@@ -23,12 +23,27 @@ const gabriele = {
 };
 ```
 
+- 🏆 **Italy's 2026 national champion of informatics** (1st place, GNI 2026)
 - 🔭 Currently working on **[FlashFX](https://flashfx.app)** - Next-gen editing platform
 - 👯 Open to collaborate on **[MLed](https://ml-ed.netlify.app)** - ML Education Platform
 - 💼 Personal website: **[gabrielebolognese.blog](https://gabrielebolognese.blog)**
 - ✍️ Technical Blog: **[dev.to/therealgabryy](https://dev.to/therealgabryy)**
 - 💬 Ask me about: **TypeScript, PHP, Java, AI/ML, Web Development, REST APIs, SQL**
 - 📫 Reach me: **the.real.gabryy@gmail.com**
+
+---
+
+### ⭐ Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[FlashFX](https://github.com/gabrielebolognese/FlashFX-v2)** · [live](https://editor.flashfx.app) | A WebGPU motion-graphics studio in the browser: keyframes, expressions, a MoGraph cloner, 2D physics and AI that generates editable scenes | TypeScript, React, WebGPU |
+| **[FlashFX Shorts Editor](https://github.com/gabrielebolognese/FlashFXeditor)** | A local-first browser video editor for Reels, TikTok and Shorts | TypeScript, React |
+| **[FlashCC](https://github.com/gabrielebolognese/FlashCC)** | A carousel creator that drafts to one of four post frameworks, then lets you edit every layer | TypeScript, React, Supabase |
+| **[Terraform](https://github.com/gabrielebolognese/Terraform)** | A Mars terraforming simulation game on a deterministic planetary model | TypeScript |
+| **[civitasCraft](https://github.com/gabrielebolognese/civitasCraft)** | A Paper plugin for city-building Minecraft servers, with wars and full world rollback | Java 21 |
+| **[DigitalGabry](https://github.com/gabrielebolognese/DigitalGabry)** | A local-first desktop planner with a momentum score | Tauri, React, SQLite |
+| **[AutoFlashFX](https://github.com/gabrielebolognese/AutoFlashFX)** | An unattended pipeline that turns an idea into a finished Instagram reel | Python, Bash, Node |
 
 ---
 
