@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b0b0f,45:6d28d9,100:f7b500&height=240&section=header&text=Gabriele%20Bolognese&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Founder%20of%20FlashFX%20%C2%B7%20creative%20tools%20that%20run%20in%20the%20browser&descSize=18&descAlignY=64" width="100%" alt="Gabriele Bolognese, founder of FlashFX" />
+  <img src="https://raw.githubusercontent.com/gabrielebolognese/gabrielebolognese/main/assets/header.svg" width="100%" alt="Gabriele Bolognese, founder of FlashFX" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <div align="center">
 
 [![Profile views](https://komarev.com/ghpvc/?username=gabrielebolognese&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/gabrielebolognese)
-[![Website](https://img.shields.io/badge/gabrielebolognese.blog-0b0b0f?style=for-the-badge&logo=astro&logoColor=f7b500)](https://gabrielebolognese.blog)
+[![Website](https://img.shields.io/badge/gabrielebolognese.blog-ff3366?style=for-the-badge&logo=astro&logoColor=white)](https://gabrielebolognese.blog)
 [![FlashFX](https://img.shields.io/badge/Try_FlashFX-f7b500?style=for-the-badge&logo=webgpu&logoColor=0b0b0f)](https://editor.flashfx.app)
 
 </div>
@@ -133,7 +133,7 @@ I build **[FlashFX](https://flashfx.app)**, a motion graphics and video editor t
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-0b0b0f?style=for-the-badge&logo=astro&logoColor=f7b500)](https://gabrielebolognese.blog)
+[![Website](https://img.shields.io/badge/Website-ff3366?style=for-the-badge&logo=astro&logoColor=white)](https://gabrielebolognese.blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-bolognese/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gabriele.bolognese)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/logs.of.gabry/)
